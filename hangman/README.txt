@@ -17,3 +17,5 @@ How to run:
 
 The word list was taken from Parity Tech's .txt file on Github. The file can be found here:
 https://github.com/paritytech/wordlist/blob/master/res/wordlist.txt
+
+Note: this was written in Python 3. 
