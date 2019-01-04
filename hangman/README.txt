@@ -3,6 +3,8 @@ README
 This is a console-run Python hangman game.
 
 How to run:
+-Download the hangman folder, and keep all of the contents together in that folder. 
+
 -Open up a console (Terminal, PowerShell, etc)
 
 -Navigate to the directory where the hangman folder is stored (but do not go in the hangman folder). 
