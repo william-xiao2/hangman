@@ -16,7 +16,7 @@ def prompt_user_play():
     inp = ''
     while not inp in ['y', 'n']: #invalid or valid input
         inp = input("Play again? Please enter either 'Y' or 'N'. ").lower()
-    return True if inp == 'y' else False
+    return inp == 'y' 
 
 
 if __name__ == '__main__':
